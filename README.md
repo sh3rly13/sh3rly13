@@ -31,3 +31,6 @@ I am unemplyoed. I now learning english speak :D and I learning some backend web
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[!NOTE]
+DENEME MESAJI
